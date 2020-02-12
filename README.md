@@ -34,3 +34,23 @@ To run the app, cd into the directory and do:
 ```
 npm start
 ```
+
+## Running the boilerplate
+
+Run MongoDB daemon:
+```
+sudo mongod
+```
+
+Run Express:
+```
+cd backend/
+npm start
+```
+
+Run React:
+```
+cd frontend
+npm start
+```
+
