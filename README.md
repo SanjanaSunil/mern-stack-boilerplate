@@ -52,12 +52,14 @@ This will open the mongo shell. Type in ```use users``` to create a new database
 Run Express:
 ```
 cd backend/
+npm install
 npm start
 ```
 
 Run React:
 ```
 cd frontend
+npm install/
 npm start
 ```
 Navigate to localhost:3000/ in your browser.
