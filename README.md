@@ -1,12 +1,6 @@
 # MERN Stack Boilerplate
 
-## MongoDB
-
-MongoDB will be the database for your app.
-
-#### Setup
-
-Install the community edition [here](https://docs.mongodb.com/manual/installation/#mongodb-community-edition-installation-tutorials).
+## Setup
 
 #### Node
 
@@ -23,14 +17,20 @@ brew install node
 
 #### MongoDB
 
-Install the community edition:
-https://docs.mongodb.com/manual/installation/#mongodb-community-edition-installation-tutorials
+Install the community edition [here](https://docs.mongodb.com/manual/installation/#mongodb-community-edition-installation-tutorials).
 
 #### React
 
+```
+npm install -g create-react-app
+```
+
 To create a new React app:
+```
 create-react-app name_of_app
+```
 
 To run the app, cd into the directory and do:
+```
 npm start
-
+```
